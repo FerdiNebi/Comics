@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<comics>
+	<title>Naruto 590</title>
+	<description>Naruto is a ninja...</description>
+	<price>$5.99</price>
+	<cover>cover.jpg</cover>
+	
+	<pages>
+		<page>
+			<pagewidth>800</pagewidth>
+			<pageheight>1200</pageheight>
+			<rectangle>
+				<x>434</x>
+				<y>0</y>
+				<width>366</width>
+				<height>687</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>0</y>
+				<width>427</width>
+				<height>246</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>252</y>
+				<width>423</width>
+				<height>192</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>469</y>
+				<width>425</width>
+				<height>285</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>244</x>
+				<y>698</y>
+				<width>541</width>
+				<height>510</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>747</y>
+				<width>241</width>
+				<height>461</height>
+			</rectangle>
+		</page>
+		
+		<page>
+			<pagewidth>800</pagewidth>
+			<pageheight>1200</pageheight>
+			<rectangle>
+				<x>242</x>
+				<y>477</y>
+				<width>558</width>
+				<height>715</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>0</y>
+				<width>415</width>
+				<height>542</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>543</y>
+				<width>294</width>
+				<height>228</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>794</y>
+				<width>247</width>
+				<height>398</height>
+			</rectangle>
+		</page>
+		
+		<page>
+			<pagewidth>800</pagewidth>
+			<pageheight>1200</pageheight>
+			<rectangle>
+				<x>390</x>
+				<y>0</y>
+				<width>399</width>
+				<height>351</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>398</x>
+				<y>370</y>
+				<width>402</width>
+				<height>206</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>0</y>
+				<width>393</width>
+				<height>552</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>508</x>
+				<y>575</y>
+				<width>292</width>
+				<height>338</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>579</y>
+				<width>501</width>
+				<height>302</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>561</x>
+				<y>919</y>
+				<width>233</width>
+				<height>279</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>894</y>
+				<width>542</width>
+				<height>305</height>
+			</rectangle>
+		</page>
+		
+	</pages>
+	
+</comics>

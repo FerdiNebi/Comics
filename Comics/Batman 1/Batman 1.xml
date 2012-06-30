@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<comics>
+	<title>Batman 1</title>
+	<description>Bruce Waine is young man who has lost his parents...
+    </description>
+	<price>$10.99</price>
+	<cover>cover.jpg</cover>
+	
+	<pages>
+		<page>
+			<pagewidth>1073</pagewidth>
+			<pageheight>1650</pageheight>
+			<rectangle>
+				<x>62</x>
+				<y>70</y>
+				<width>963</width>
+				<height>588</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>59</x>
+				<y>671</y>
+				<width>985</width>
+				<height>409</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>22</x>
+				<y>1077</y>
+				<width>1005</width>
+				<height>560</height>
+			</rectangle>
+		</page>
+		
+		<page>
+			<pagewidth>1073</pagewidth>
+			<pageheight>1650</pageheight>
+			<rectangle>
+				<x>42</x>
+				<y>62</y>
+				<width>994</width>
+				<height>616</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>31</x>
+				<y>677</y>
+				<width>1016</width>
+				<height>973</height>
+			</rectangle>
+			
+			</page>
+		
+		<page>
+			<pagewidth>1073</pagewidth>
+			<pageheight>1650</pageheight>
+			<rectangle>
+				<x>0</x>
+				<y>0</y>
+				<width>1064</width>
+				<height>583</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>571</y>
+				<width>1069</width>
+				<height>484</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>1043</y>
+				<width>1062</width>
+				<height>607</height>
+			</rectangle>
+		</page>
+		
+	</pages>
+	
+</comics>

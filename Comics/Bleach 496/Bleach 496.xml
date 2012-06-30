@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<comics>
+	<title>Bleach 496</title>
+	<description>Ichigo is a 15 year old teenager who is always trying to be different and anti-social.That is the reason why he always seemed disgruntled-antennae. However, over the story, despite its rugged appearance and demeanor, he became more kind and smart. Ichigo's orange hair is natural color, and this caused him to always harassed and asked to fight by his sister her class at school. [1] Ichigo stated that he does not care what others think (about the hair color or anything else) and it seems like the fight with the enemies.
+    </description>
+	<price>$7.99</price>
+	<cover>cover.jpg</cover>
+	
+	<pages>
+		<page>
+			<pagewidth>800</pagewidth>
+			<pageheight>1200</pageheight>
+			<rectangle>
+				<x>0</x>
+				<y>0</y>
+				<width>800</width>
+				<height>293</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>303</y>
+				<width>800</width>
+				<height>664</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>970</y>
+				<width>800</width>
+				<height>315</height>
+			</rectangle>
+		</page>
+		
+		<page>
+			<pagewidth>800</pagewidth>
+			<pageheight>1200</pageheight>
+			<rectangle>
+				<x>0</x>
+				<y>0</y>
+				<width>800</width>
+				<height>348</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>327</y>
+				<width>800</width>
+				<height>275</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>605</y>
+				<width>800</width>
+				<height>360</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>956</y>
+				<width>800</width>
+				<height>214</height>
+			</rectangle>
+		</page>
+		
+		<page>
+			<pagewidth>800</pagewidth>
+			<pageheight>1200</pageheight>
+			<rectangle>
+				<x>0</x>
+				<y>0</y>
+				<width>800</width>
+				<height>323</height>
+			</rectangle>
+			
+			<rectangle>
+				<x>0</x>
+				<y>332</y>
+				<width>800</width>
+				<height>863</height>
+			</rectangle>
+			
+			
+		</page>
+		
+	</pages>
+	
+</comics>

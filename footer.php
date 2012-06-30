@@ -1,0 +1,1 @@
+<div id="footer">ComicsLand&reg</div>

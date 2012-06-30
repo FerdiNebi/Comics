@@ -1,0 +1,269 @@
+html,body{
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+body
+{
+ 	font-family: Helvetica, Arial, sans-serif;
+ 	background-color:#000;
+    text-align: center;
+}
+img{
+	border-radius: 1em;
+	-moz-border-radius: 1em;
+	box-shadow: 10px 10px 5px #888888;
+}
+div#logo
+{
+    margin:auto;
+    background-image:url("../Resources/logo.png");
+    width:921px;
+    height:255px;
+}
+div#logo a:link, div#logo a:visited 
+{
+    display: block;
+    width:100%;
+    height:100%;
+}
+div#welcome {
+	color:#FFFFFF;
+	font-size: 15px;
+	text-align: left;
+	width:850px;
+	height:30px;
+	margin:auto;
+}
+div#welcome span{
+	float: right;
+}
+div#welcome span a{
+	display:inline;
+	text-decoration:underline;
+}
+div#welcome span a:hover{
+	color: #004488;
+}
+div#container
+{
+    width:850px;
+    padding:0px;
+    /*border:18px ridge #888;*/
+    height:600px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:0px;
+    margin-bottom:100px;
+    background: url('../Resources/Container2.png') repeat;
+    background-color: #004488;
+    text-align: center;
+   	border-radius: 1em;
+	-moz-border-radius: 1em;
+	
+	clear: both;
+}
+div#innerContainer{
+	width: 830px;
+	height: 530px;
+	overflow-y: auto;
+	margin: 10px;
+}
+div#container span{
+	height:50px;
+	margin:auto;
+	text-align: center;
+	color:#FFFFFF;
+	font-size:20px;
+	font-family: Times,Courier;	
+}
+div#infoContainer {
+	margin: 50px;
+	height: 500px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #AAA;
+}
+div#infoContainer img{
+	float: left;
+	margin-right: 10px;
+}
+h1{
+	color: #FFFFFF;
+	text-align: center;
+	text-shadow: 2px -4px 4px #000;
+}
+div#infoContainer p{
+	color: #AAA;
+	text-align: left;
+	text-indent: 20px;
+}
+div#infoContainer h2{
+	color: #AAA;
+	text-align: center;
+	width: 250px;
+}
+div#footer
+{
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    height: 30px;
+    background-color: #004488;
+    background: url('../Resources/fadedBar.png') repeat-x;
+    margin:0px;
+}
+
+div#registration
+{
+	width:300px;
+	margin: 100px auto auto auto;
+}
+div#addcomics{
+	width: 300px;
+	height: 200px;
+	margin: 100px auto auto auto;
+}
+div#info_bar
+{
+	width:100%;
+	height:50px;
+	font-size:22px;
+	color: #fff;
+	text-align: right;
+}
+div#info_bar span{
+	margin-right: 0px;
+	float: right;
+}
+div#info_bar a:link, div#info_bar a:visited{
+	margin-right:5px;
+	margin-top: 5px;
+	width: 160px;
+	height: 30px;
+	float: left;
+	text-align: center;
+	color: white;
+	display: inline;
+	border-radius: 25px;
+	-moz-border-radius: 25px;
+	border: 2px solid white;
+	background: url('../Resources/Buttons.png') repeat-x;
+}
+div#info_bar a:hover{
+	color:#004488;
+}
+a:link,a:visited
+{
+	display: block;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+table#list{
+	margin:auto;
+}
+table#list p{
+	text-align: center;
+}
+table#list td{
+	text-align: center;
+	color: #FFFFFF;
+	width: 200px;
+	font-family:"Courier New" ,"Comic Sans MS";
+	font-size: 25px;
+	padding: 10px;
+	text-shadow: 3px -5px 4px #000;
+}
+table#list a:link, table#list a:visited{
+	text-decoration: none;
+}
+img{
+	border: 0px;
+}
+div#rating {
+	clear: left;
+	float: left;
+	margin-top: 30px;
+}
+input, #desc{
+	width: 150px;
+	padding: 3px;
+	margin: 3px;
+	color: #111;
+	background-color:#ccc;
+}
+#submit{
+	border: 1px solid white;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+	font-size: 18px;
+	width: 40px;
+	cursor:pointer;
+}
+#submit:hover{
+	color: #CCCCCC;
+	background-color: #111111;
+	border-radius: 18px;
+	-moz-border-radius: 18px;
+	font-size: 16px;
+	width: 36px;
+	
+}
+label{
+	color: #FFFFFF;
+	text-shadow: 3px -7px 4px #000;
+}
+
+span#reglink a{
+	color: #FFFFFF;
+	text-shadow: 3px -7px 4px #000;
+}
+span#reglink a:hover{
+	text-shadow: 3px -7px 15px #fff;
+}
+span#reglink a:active{
+	text-shadow: 3px 7px 4px #000;
+	font-size: 18px;
+}
+
+#error{
+	color: #BBB;
+	margin-top: 40px;
+	margin-bottom: 15px;
+}
+
+div#registered{
+	color: #FFFFFF;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	margin:200px auto auto auto;
+}
+
+
+#search{
+	float:left;
+	margin: 5px 0px 0px 10px;
+}
+#searchSubmit{
+	display: none;
+}
+#searchText{
+	border:1px solid #BBBBBB;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	background-color: #888;
+	background-image: url('../Resources/search.jpg');
+	background-repeat:no-repeat;
+	padding-left: 27px;
+	color:#FFFFFF;
+}
+
+#voteSubmit{
+	border:1px solid #BBBBBB;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	background-image: url('../Resources/fadedBar2.png');
+}
+a#read{
+	text-decoration: blink;
+}
